@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richeek Sharma</h1>
-<h3 align="center">A passionate frontend developer and content creator from England</h3>
+<h3 align="center">A passionate in Cloud AWS and Azure and frontend developer.</h3>
 
-- 🔭 I’m currently working on **Oracle**
+- 🔭 I’m currently working as Intern on **Celebal Technologies**
 
 - 📫 How to reach me **richeeksharma946@gmail.com**
 
